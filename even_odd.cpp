@@ -4,7 +4,7 @@ using namespace std;
 int main() 
 {
 	//User enters integer number.
-	//Program write out if that number is an even or odd number.
+	//Program check and print out if that number is an even or odd number.
 	
 	int number;
 	
@@ -19,12 +19,7 @@ int main()
 	{
 		cout<< "You have entered an ODD Number." <<endl;
 	}
-		
 	cout<<"THANKS.  BYE." <<endl;
 	
-
-
-
-
 	system("pause>0");
 }
